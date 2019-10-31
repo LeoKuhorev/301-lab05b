@@ -1,0 +1,12 @@
+body {
+  width: 480px;
+  margin: 0 auto;
+}
+
+header, nav, div, footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
